@@ -1,0 +1,3 @@
+streamlit
+backboard-sdk
+python-dotenv
